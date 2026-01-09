@@ -1,0 +1,1 @@
+const newTest:string = 'hello test';

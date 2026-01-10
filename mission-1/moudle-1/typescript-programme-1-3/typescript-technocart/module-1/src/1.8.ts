@@ -16,7 +16,7 @@ learing:{
 }
 }
 
-const {work:{marketing:{markType1}}} =myOfficeHistory;
+const {work:{marketing:{markType1:mark}}} =myOfficeHistory;
 
 const mysubject = ['math', 'statistic', 'urban', 'history'];
 
